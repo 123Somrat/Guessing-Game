@@ -22,3 +22,14 @@
     align-items: center;
     
     }
+
+.card{
+    width: 32rem;
+    height: 20rem;
+    background-color: rgb(2, 160,245);
+    border-radius: 0.6rem;
+    padding: 1rem;
+    color: white;
+    box-shadow: 0.1rem 0.1rem 0.1rem #222,-0.1rem 0 0.1rem #222;
+    font-size: 1.2rem;
+}
