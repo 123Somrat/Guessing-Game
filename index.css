@@ -11,5 +11,14 @@
     font-weight: 400;
 }
 
-
 /* reset code end */
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    }
